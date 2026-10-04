@@ -39,15 +39,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&margin-w=10" />
-
-</p>
-
----
 
 ## 📊 GitHub Stats
 
