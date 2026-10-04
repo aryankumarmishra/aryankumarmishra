@@ -22,9 +22,9 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN">LinkedIn</a>
-<a href="YOUR_GITHUB">GitHub</a>
-<a href="YOUR_INSTAGRAM">Instagram</a>
+<a href="www.linkedin.com/in/aryan-mishra-39739035a">LinkedIn</a>
+<a href="https://github.com/aryankumarmishra">GitHub</a>
+<a href="https://www.instagram.com/_.aryan.mishra._?stkn=MXU3NGU1ZDhvaWxkcw==">Instagram</a>
 </p>
 
 ---
