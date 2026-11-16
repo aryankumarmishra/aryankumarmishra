@@ -1,101 +1,73 @@
-<div align="center">
 
-# Hi 👋, I'm Aryan Kumar Mishra
+# 👋 Hi, I'm YOUR NAME
 
-### B.Tech CSE (AI/ML) Student | AI/ML Developer | GenAI Enthusiast
+### AI/ML Engineer | Python Developer | Generative AI Enthusiast
 
-</div>
-
----
-
-## 🚀 About Me
-
-- 🎓 B.Tech Computer Science & Engineering (AI/ML)
-- 🤖 Interested in AI, Machine Learning & Generative AI
-- 💻 Building AI-powered applications
-- 🌱 Currently learning DSA, Backend Development & LLMs
-- 🚀 Building projects that solve real-world problems
-- 🎯 Goal: Become a strong AI/ML Engineer
-
----
-
-## 🌐 Connect With Me
+Building high-performance AI/ML systems and intelligent applications.
 
 <p align="left">
-<a href="www.linkedin.com/in/aryan-mishra-39739035a">LinkedIn</a>
-<a href="https://github.com/aryankumarmishra">GitHub</a>
-<a href="https://www.instagram.com/_.aryan.mishra._?stkn=MXU3NGU1ZDhvaWxkcw==">Instagram</a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Featured Systems & Projects
+
+- Developed and optimized AI/ML applications.
+- Built intelligent automation and AI-powered workflows.
+- Created scalable backend systems and APIs.
+- Exploring Generative AI and Large Language Models.
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|---|---|
+| Languages | Python, Java, C++ |
+| AI/ML | PyTorch, TensorFlow, Scikit-learn |
+| Generative AI | LangChain, RAG, LLMs |
+| Backend | FastAPI, Flask |
+| Database | MySQL, PostgreSQL, MongoDB |
+| Tools | Git, GitHub, Docker, VS Code |
+
+## 📌 Featured Repositories
+
+<!-- Replace these with your actual repositories -->
+
+- [Project 1](https://github.com/YOUR_USERNAME/PROJECT_1)
+- [Project 2](https://github.com/YOUR_USERNAME/PROJECT_2)
+- [Project 3](https://github.com/YOUR_USERNAME/PROJECT_3)
+- [Project 4](https://github.com/YOUR_USERNAME/PROJECT_4)
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,fastapi,mongodb,mysql,git,github,linux,tensorflow,pytorch" />
-
+  <img height="165"
+  src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="165"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
 </p>
+
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact)](https://github.com/YOUR_USERNAME)
 
 ---
 
+## 🤝 Connect With Me
 
-## 📊 GitHub Stats
+- LinkedIn: YOUR_LINKEDIN
+- Portfolio: YOUR_PORTFOLIO
+- Email: YOUR_EMAIL
+
+---
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aryankumarmishra&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryankumarmishra&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <i>Building. Learning. Improving. Every day.</i>
 </p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=aryankumarmishra&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-
-## 🎯 2026 Goals
-
-- ⬜ Solve 300+ DSA problems
-- ⬜ Build 5 serious AI/ML projects
-- ⬜ Learn LLM Engineering
-- ⬜ Contribute to Open Source
-- ⬜ Get an AI/ML internship
-- ⬜ Build production-ready applications
-
----
-
-## 🚀 Featured Projects
-
-⭐ [Sahayak AI](YOUR_REPO_LINK)
-
-> AI-powered smart resource allocation platform.
-
-⭐ [AI Resume Analyzer](YOUR_REPO_LINK)
-
-> Analyze resumes and compare skills with job requirements.
-
-⭐ [MST Visualizer](YOUR_REPO_LINK)
-
-> Interactive visualization of Prim's and Kruskal's algorithms.
-
-⭐ [Movie Recommendation System](YOUR_REPO_LINK)
-
-> Machine-learning based movie recommendation system.
-
----
-
-<div align="center">
-
-### 💡 "Build. Learn. Improve. Repeat."
-
-</div>
