@@ -1,11 +1,15 @@
-## 👋 Hi, I'm Aryan
- 
-Building high-performance AI/ML systems & generative AI architectures.
- 
-![Python](https://img.shields.io/badge/Python-21262d?style=flat&logo=python&logoColor=3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-21262d?style=flat&logo=pytorch&logoColor=EE4C2C) ![FastAPI](https://img.shields.io/badge/FastAPI-21262d?style=flat&logo=fastapi&logoColor=009688) ![LangGraph](https://img.shields.io/badge/LangGraph-21262d?style=flat&logo=langchain&logoColor=1C3C3C) ![Docker](https://img.shields.io/badge/Docker-21262d?style=flat&logo=docker&logoColor=2496ED) ![Qdrant](https://img.shields.io/badge/Qdrant-21262d?style=flat&logo=qdrant&logoColor=DC244C)
- 
-### 🚀 Featured Systems & Benchmarks
- 
-- Developed & optimized RAG and multi-agent workflows.
-- Scaling custom training pipelines & evaluating agents.
- 
+### Hi, I'm Aryan 👋
+Building production-grade **AI/ML systems, PyTorch architectures, and GenAI workflows**.
+
+#### Core Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-Vector_DB-DC244C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agents-1C3C3C?style=flat-square)
+
+#### Current Focus
+- Implementing Transformer architectures & training pipelines from scratch in PyTorch
+- Engineering Hybrid-RAG systems with automated evaluation & latency benchmarking
+- Solving Data Structures & Algorithms in Python ([LeetCode](https://leetcode.com/u/aryan_kumar_mishra/))
